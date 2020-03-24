@@ -1,0 +1,15 @@
+food = "spaghetti"
+is_new = true
+pasta = food
+food = "tortilla chips"
+
+num1 = 2
+gets.chomp.to_i
+num2 = 5
+gets.chomp.to_i
+num3 = num1 * num2
+puts "The result is 10"
+
+movies = ["Space Jam", "Love and Basketball", "Glory Road"]
+puts "slice() method form : #{movies.slice(0,1)}\n\n"
+puts "counting : #{movies.count}\n\n"
