@@ -1,0 +1,15 @@
+Instance: Vincenzo's Roma Tomato
+
+Attributes:
+color: "red"
+days_old: 3
+shipment_weight: 12
+price_per_pound: 1.55
+round_shape: true
+
+Methods:
+overcook: color: "brown"
+new_order: days_old: 0
+increase_order: shipment_weight: 15
+introduce_drought: price_per_pound: 1.90
+cut_vegetable: round_shape: false

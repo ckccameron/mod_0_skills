@@ -1,0 +1,15 @@
+Class: Vegetable
+
+Attributes:
+color (string)
+farm_source (string)
+shipment_weight (float)
+price_per_pound (float)
+round_shape (boolean)
+
+Methods:
+overcook (changes the color string)
+order_avocado (changes the farm_source string)
+increase_order (increases the shipment_weight float)
+introduce_drought (increases the price_per_pound)
+cut_vegetable (makes round_shape false)
