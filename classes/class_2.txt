@@ -1,0 +1,13 @@
+Class: Restaurant_Staff
+
+Attributes:
+weekly_hours_worked (float)
+total_pay_per_hour (float)
+on_time (boolean)
+earn_tips (boolean)
+
+Methods:
+take_vacation (decreases the weekly_hours_worked float)
+earn_promotion (increases total_pay_per_hour float)
+call_in_sick (makes the on_time boolean false)
+bartend (makes earn_tips boolean true)

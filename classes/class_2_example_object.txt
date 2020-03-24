@@ -1,0 +1,13 @@
+Instance: El Cazo's Host, Juan
+
+Attributes:
+weekly_hours_worked: 34
+total_pay_per_hour: 14
+on_time: true
+earn_tips: false
+
+Methods:
+take_vacation: weekly_hours_worked: 0
+earn_promotion: total_pay_per_hour: 18
+call_in_sick: on_time: false
+bartend: earn_tips: true
